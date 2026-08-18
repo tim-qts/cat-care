@@ -1,0 +1,6 @@
+{
+  "name": "Cat Care",
+  "description": "A cheerful, friendly daily care tracker for your cats — log meals, poop, and medication, view trend charts, and export CSV logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
